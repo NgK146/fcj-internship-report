@@ -31,7 +31,7 @@ However, as the number of applications grows, enterprises face numerous challeng
 - **Generative AI Account**: Deploys Amazon Bedrock, Bedrock Knowledge Bases, Bedrock Guardrails, Foundation Models, and related AI services. It facilitates centralized governance, cost tracking, and operational standardization.
 - **Workload Accounts**: Deploy customer chatbots, internal assistants, document processors, RAG applications, and business applications. These access AI through the central control layer rather than connecting directly to Bedrock.
 
-![Architecture Diagram](/images/bedrock-baseline.png)
+![Architecture Diagram](../../images/bedrock-baseline.png)
 
 ### Key Highlights of the Architecture
 

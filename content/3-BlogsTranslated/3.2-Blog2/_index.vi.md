@@ -31,7 +31,7 @@ Tuy nhiên khi số lượng ứng dụng tăng lên, doanh nghiệp sẽ gặp 
 - **Generative AI Account**: triển khai Amazon Bedrock, Bedrock Knowledge Bases, Bedrock Guardrails, Foundation Models và các dịch vụ AI liên quan; giúp quản trị tập trung, theo dõi chi phí và chuẩn hóa vận hành.
 - **Workload Accounts**: triển khai chatbot khách hàng, trợ lý nội bộ, xử lý tài liệu, ứng dụng RAG và các ứng dụng nghiệp vụ; truy cập AI thông qua lớp kiểm soát trung tâm thay vì kết nối trực tiếp đến Bedrock.
 
-![Architecture Diagram](/images/bedrock-baseline.png)
+![Architecture Diagram](../../images/bedrock-baseline.png)
 
 ### Những điểm nổi bật của kiến trúc
 

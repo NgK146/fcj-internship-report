@@ -44,7 +44,7 @@ Giả sử khách hàng gửi thông tin nhạy cảm (mật khẩu, API key, gi
 
 Mọi thứ diễn ra mượt mà và dữ liệu luôn được bảo vệ bằng key riêng của từng tenant.
 
-![Architecture Diagram](/images/kms-multitenant.png)
+![Architecture Diagram](../../images/kms-multitenant.png)
 
 ### VAI TRÒ CỦA CÁC DỊCH VỤ AWS
 
