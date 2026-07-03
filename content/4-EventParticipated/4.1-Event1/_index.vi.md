@@ -72,9 +72,9 @@ Cú tát tỉnh người lớn nhất đối với mình là nhận ra: giờ AI
 
 #### Hình ảnh sự kiện
 
-![Ảnh check-in sự kiện](../../images/event1/pic1.jpg)
+![Ảnh check-in sự kiện](/images/event1/pic1.jpg)
 
-![Phương pháp BMAD](../../images/event1/pic2.jpg)
+![Phương pháp BMAD](/images/event1/pic2.jpg)
 
-![Trình bày về Prompt Engineering](../../images/event1/pic3.jpg)
+![Trình bày về Prompt Engineering](/images/event1/pic3.jpg)
 

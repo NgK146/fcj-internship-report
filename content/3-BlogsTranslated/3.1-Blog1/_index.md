@@ -44,7 +44,7 @@ Suppose a customer sends sensitive information (passwords, API keys, licenses...
 
 Everything happens seamlessly, and data is always protected using each tenant's dedicated key.
 
-![Architecture Diagram](../../images/kms-multitenant.png)
+![Architecture Diagram](/images/kms-multitenant.png)
 
 ### THE ROLE OF AWS SERVICES
 

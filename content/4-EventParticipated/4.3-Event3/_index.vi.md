@@ -31,8 +31,8 @@ Sự kiện lần này đi cực sâu vào việc tự động hóa hạ tầng 
 4. **Đừng chỉ cảnh báo, hãy hành động:** Thay vì cài mấy cái alert réo gọi dev dậy lúc 2h sáng, mình học được tư duy là phải thiết kế sao cho hệ thống tự tìm cách sửa lỗi trước đã.
 
 ### Hình ảnh sự kiện
-![Building Voice Agent at Scale](../../images/event3/pic1.jpg)
+![Building Voice Agent at Scale](/images/event3/pic1.jpg)
 
-![DevOps Agent Architecture](../../images/event3/pic2.jpg)
+![DevOps Agent Architecture](/images/event3/pic2.jpg)
 
-![AgenticOps for your Cloud](../../images/event3/pic3.jpg)
+![AgenticOps for your Cloud](/images/event3/pic3.jpg)

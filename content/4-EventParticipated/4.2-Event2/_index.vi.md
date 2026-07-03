@@ -33,8 +33,8 @@ Sự kiện này đã thay đổi hoàn toàn góc nhìn của mình về cách 
 
 #### Hình ảnh sự kiện
 
-![Workshop Exercises](../../images/event2_may23/pic1.jpg)
+![Workshop Exercises](/images/event2_may23/pic1.jpg)
 
-![Toàn cảnh hội trường](../../images/event2_may23/pic2.jpg)
+![Toàn cảnh hội trường](/images/event2_may23/pic2.jpg)
 
-![Thiết kế hệ thống](../../images/event2_may23/pic3.jpg)
+![Thiết kế hệ thống](/images/event2_may23/pic3.jpg)

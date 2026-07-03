@@ -47,7 +47,7 @@ Hệ thống tận dụng các native service của AWS như:
 4. Dữ liệu được format thành báo cáo HTML.
 5. **Amazon SES** gửi email đến danh sách người nhận.
 
-![Architecture Diagram](../../images/delta-cost.png)
+![Architecture Diagram](/images/delta-cost.png)
 
 ### Lợi ích nổi bật
 

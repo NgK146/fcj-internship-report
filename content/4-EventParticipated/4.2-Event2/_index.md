@@ -33,8 +33,8 @@ Going to this event really changed my perspective on how AI is actually used in 
 
 #### Event Photos
 
-![Workshop Exercises](../../images/event2_may23/pic1.jpg)
+![Workshop Exercises](/images/event2_may23/pic1.jpg)
 
-![Audience View](../../images/event2_may23/pic2.jpg)
+![Audience View](/images/event2_may23/pic2.jpg)
 
-![Whiteboard Design](../../images/event2_may23/pic3.jpg)
+![Whiteboard Design](/images/event2_may23/pic3.jpg)

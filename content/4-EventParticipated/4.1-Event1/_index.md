@@ -72,9 +72,9 @@ The biggest reality check for me was realizing that since AI can now write basic
 
 #### Event Photos
 
-![My Selfie](../../images/event1/pic1.jpg)
+![My Selfie](/images/event1/pic1.jpg)
 
-![BMAD Method Slides](../../images/event1/pic2.jpg)
+![BMAD Method Slides](/images/event1/pic2.jpg)
 
-![Ultimate Prompt Engineering Slides](../../images/event1/pic3.jpg)
+![Ultimate Prompt Engineering Slides](/images/event1/pic3.jpg)
 

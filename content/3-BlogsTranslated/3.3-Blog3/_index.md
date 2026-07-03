@@ -47,7 +47,7 @@ What I like most is that the entire architecture is serverless and relies on man
 4. The data is formatted into an HTML report.
 5. **Amazon SES** sends the email to the recipient list.
 
-![Architecture Diagram](../../images/delta-cost.png)
+![Architecture Diagram](/images/delta-cost.png)
 
 ### Key Benefits
 

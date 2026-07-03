@@ -31,8 +31,8 @@ This event was a deep dive into how cloud operations are becoming automated with
 4. **Action-Driven Mindset:** Instead of just setting up alarms that wake people up at 2 AM, I learned we should design systems that try to auto-remediate the issue first.
 
 ### Event Photos
-![Building Voice Agent at Scale](../../images/event3/pic1.jpg)
+![Building Voice Agent at Scale](/images/event3/pic1.jpg)
 
-![DevOps Agent Architecture](../../images/event3/pic2.jpg)
+![DevOps Agent Architecture](/images/event3/pic2.jpg)
 
-![AgenticOps for your Cloud](../../images/event3/pic3.jpg)
+![AgenticOps for your Cloud](/images/event3/pic3.jpg)
