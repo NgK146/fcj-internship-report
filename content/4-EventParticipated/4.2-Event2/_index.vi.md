@@ -10,7 +10,7 @@ pre: " <b> 4.2. </b> "
 
 **Tên sự kiện:** FCAJ Community Day  
 **Thời gian:** 9:00 SA – 12:00 CH, Thứ Bảy, ngày 23 tháng 5 năm 2026  
-**Địa điểm:** Tòa nhà Bitexco Financial Tower, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh  
+**Địa điểm:** Tòa nhà Bitexco Financial Tower, Tầng 26, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
 **Vai trò:** Người tham dự (Attendee)  
 
 ### Nội dung sự kiện

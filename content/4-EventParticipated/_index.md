@@ -15,7 +15,7 @@ During my internship, I had the opportunity to participate in three community ev
 
 &emsp;**Date & Time:** 9:00 AM – 12:00 PM, Saturday, May 9, 2026
 
-&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 
 &emsp;**Role:** Attendee
 
@@ -26,7 +26,7 @@ During my internship, I had the opportunity to participate in three community ev
 
 &emsp;**Date & Time:** 9:00 AM – 12:00 PM, Saturday, May 23, 2026
 
-&emsp;**Location:** Bitexco Financial Tower, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 
 &emsp;**Role:** Attendee
 
@@ -37,7 +37,7 @@ During my internship, I had the opportunity to participate in three community ev
 
 &emsp;**Date & Time:** 9:00 AM – 12:00 PM, Saturday, June 27, 2026
 
-&emsp;**Location:** Bitexco Financial Tower, Amazon Q Conference Room (Floor 26), 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 
 &emsp;**Role:** Attendee
 

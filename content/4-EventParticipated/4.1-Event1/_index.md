@@ -14,7 +14,7 @@ pre: " <b> 4.1. </b> "
 
 &emsp;**Date & Time:** 9:00 AM – 12:00 PM, Saturday, May 9, 2026
 
-&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City
+&emsp;**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 
 &emsp;**Role:** Attendee
 

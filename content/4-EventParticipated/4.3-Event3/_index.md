@@ -10,7 +10,7 @@ pre: " <b> 4.3. </b> "
 
 **Event Name:** FCAJ Community Day  
 **Date & Time:** 9:00 AM – 12:00 PM, Saturday, June 27, 2026  
-**Location:** Bitexco Financial Tower, Amazon Q Conference Room (Floor 26), 2 Hai Trieu Street, Saigon Ward, Ho Chi Minh City  
+**Location:** Bitexco Financial Tower, Floor 26, 2 Hai Trieu Street, Ben Nghe Ward, District 1, Ho Chi Minh City
 **Role:** Attendee  
 
 ### Event Content

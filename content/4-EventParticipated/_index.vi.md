@@ -26,7 +26,7 @@ Trong quá trình thực tập, mình đã có cơ hội tham gia ba sự kiện
 
 &emsp;**Thời gian:** 9:00 SA – 12:00 CH, Thứ Bảy, ngày 23 tháng 5 năm 2026
 
-&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
+&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, Tầng 26, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
 
 &emsp;**Vai trò:** Người tham dự
 
@@ -37,7 +37,7 @@ Trong quá trình thực tập, mình đã có cơ hội tham gia ba sự kiện
 
 &emsp;**Thời gian:** 9:00 SA – 12:00 CH, Thứ Bảy, ngày 27 tháng 6 năm 2026
 
-&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, Amazon Q Conference Room (Tầng 26), 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
+&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, Tầng 26, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
 
 &emsp;**Vai trò:** Người tham dự
 

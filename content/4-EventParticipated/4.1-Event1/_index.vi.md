@@ -14,7 +14,7 @@ pre: " <b> 4.1. </b> "
 
 &emsp;**Thời gian:** 9:00 SA – 12:00 CH, Thứ Bảy, ngày 9 tháng 5 năm 2026
 
-&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, Tầng 26, 2 Đường Hải Triều, Sài Gòn, Thành phố Hồ Chí Minh
+&emsp;**Địa điểm:** Tòa nhà Bitexco Financial Tower, Tầng 26, 2 Đường Hải Triều, Phường Bến Nghé, Quận 1, TP. Hồ Chí Minh
 
 &emsp;**Vai trò:** Người tham dự
 
