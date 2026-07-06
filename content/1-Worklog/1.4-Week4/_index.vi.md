@@ -18,7 +18,7 @@ pre: " <b> 1.4. </b> "
 | 2   | - Tạo AWS Backup Plan (daily, weekly, monthly) <br> - Assign các resource EC2/RDS/EFS <br> - Test các job backup và lifecycle policies | 11/05/2026 | 11/05/2026 | <https://docs.aws.amazon.com/aws-backup/latest/devguide/whatisbackup.html> |
 | 3   | - Deploy SMB Storage Gateway (File Gateway) phía on-premises <br> - Kết nối tới S3 backend <br> - Mount SMB share trên máy ảo Windows | 12/05/2026 | 12/05/2026 | <https://docs.aws.amazon.com/storagegateway/latest/userguide/WhatIsStorageGateway.html> |
 | 4   | - Deploy S3 static website (upload HTML/CSS/JS) <br> - Bật static hosting và set bucket policy <br> - Test truy cập website public | 13/05/2026 | 13/05/2026 | <https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html> |
-| 4   | - Cấu hình Cross-Region Replication (CRR) rule <br> - Upload file test <br> - Xác nhận file được replicate sang bucket ở region đích | 13/05/2026 | 13/05/2026 | <https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html> |
+| 5   | - Cấu hình Cross-Region Replication (CRR) rule <br> - Upload file test <br> - Xác nhận file được replicate sang bucket ở region đích | 14/05/2026 | 14/05/2026 | <https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html> |
 
 ### Kết quả đạt được tuần 4:
 

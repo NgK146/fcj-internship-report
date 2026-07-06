@@ -16,8 +16,8 @@ pre: " <b> 1.2. </b> "
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --------- | ------------ | --------------- | -------------- |
 | 2   | - Tạo VPC với CIDR 10.10.0.0/16 <br> - Tạo 2 public subnet và 2 private subnet trên 2 AZ <br> - Tạo và gắn Internet Gateway <br> - Cấu hình Route Table public và private <br> - Bật auto-assign public IP cho public subnet | 27/04/2026 | 27/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2   | - Tạo NAT Gateway trong public subnet <br> - Cập nhật route table private: 0.0.0.0/0 → NAT Gateway <br> - Khởi tạo EC2 trong private subnet, test internet qua NAT <br> - Cấu hình Systems Manager (SSM) Session Manager <br> - Kết nối EC2 private không cần SSH key qua Session Manager | 27/04/2026 | 27/04/2026 | <https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html> |
-| 2   | - Tạo Customer Gateway và Virtual Private Gateway <br> - Thiết lập Site-to-Site VPN (BGP routing) <br> - Tải và cấu hình VPN config phía on-premises <br> - Xác nhận trạng thái VPN tunnel (UP) và test kết nối | 27/04/2026 | 27/04/2026 | <https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html> |
+| 3   | - Tạo NAT Gateway trong public subnet <br> - Cập nhật route table private: 0.0.0.0/0 → NAT Gateway <br> - Khởi tạo EC2 trong private subnet, test internet qua NAT <br> - Cấu hình Systems Manager (SSM) Session Manager <br> - Kết nối EC2 private không cần SSH key qua Session Manager | 28/04/2026 | 28/04/2026 | <https://docs.aws.amazon.com/vpc/latest/userguide/what-is-amazon-vpc.html> |
+| 4   | - Tạo Customer Gateway và Virtual Private Gateway <br> - Thiết lập Site-to-Site VPN (BGP routing) <br> - Tải và cấu hình VPN config phía on-premises <br> - Xác nhận trạng thái VPN tunnel (UP) và test kết nối | 29/04/2026 | 29/04/2026 | <https://docs.aws.amazon.com/vpn/latest/s2svpn/VPC_VPN.html> |
 
 ### Kết quả đạt được tuần 2:
 

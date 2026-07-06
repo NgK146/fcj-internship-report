@@ -77,4 +77,4 @@ Giải pháp này thể hiện cách tiếp cận phổ biến trong kiến trú
 
 Mình là thực tập sinh nên chưa được làm task thực tế về KMS multi-tenant, nhưng sau khi đọc bài gốc và diagram, mình thấy đây là pattern rất đáng học. Nó giúp mình hiểu rõ hơn về việc thiết kế hệ thống cloud cân bằng giữa security, chi phí và scalability.
 
-**Link bài gốc:** <https://aws.amazon.com/blogs/aws/simplify-multi-tenant-kms/>
+**Link bài gốc:** <https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/>

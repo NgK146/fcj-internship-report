@@ -78,4 +78,4 @@ The architecture is compact, primarily relying on native AWS services like Lambd
 
 Beyond sending cost reports, I believe this model could be extended—such as saving history to S3, creating tracking dashboards, or integrating alerts for unusual cost spikes.
 
-**Original link:** <https://aws.amazon.com/blogs/mt/email-delta-cost-usage-report/>
+**Original link:** <https://aws.amazon.com/blogs/architecture/email-delta-cost-usage-report-in-a-multi-account-organization-using-aws-lambda/>

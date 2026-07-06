@@ -77,4 +77,4 @@ This solution reflects a common approach in modern AWS architecture: each servic
 
 As an intern, I haven't worked on a real KMS multi-tenant task yet, but after reading the original article and diagram, I find this pattern highly educational. It helped me better understand how to design cloud systems that balance security, cost, and scalability.
 
-**Original link (Vietnamese):** <https://aws.amazon.com/blogs/aws/simplify-multi-tenant-kms/>
+**Original link (Vietnamese):** <https://aws.amazon.com/blogs/architecture/simplify-multi-tenant-encryption-with-a-cost-conscious-aws-kms-key-strategy/>
