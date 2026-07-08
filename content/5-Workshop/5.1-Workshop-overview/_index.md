@@ -19,7 +19,7 @@ The system addresses real-world enterprise pain points:
 
 #### System Architecture Diagram
 
-![System Architecture Diagram](../../images/architecturalcomplex.png)
+![System Architecture Diagram](/images/architecturalcomplex.png)
 
 #### AWS Services Used
 

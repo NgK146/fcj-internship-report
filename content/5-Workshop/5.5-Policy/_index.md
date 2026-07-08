@@ -1,8 +1,9 @@
 ---
-title: "Security & Monitoring"
+title: "Restrict access to S3 with Policy"
 date: 2026-07-03
 weight: 5
 chapter: false
+draft: true
 pre: " <b> 5.5. </b> "
 ---
 

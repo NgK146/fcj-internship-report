@@ -19,7 +19,7 @@ Hệ thống giải quyết các bài toán thực tế trong doanh nghiệp:
 
 #### Sơ đồ kiến trúc hệ thống
 
-![System Architecture Diagram](../../../images/architecturalcomplex.png)
+![System Architecture Diagram](/images/architecturalcomplex.png)
 
 #### Các dịch vụ AWS sử dụng
 
