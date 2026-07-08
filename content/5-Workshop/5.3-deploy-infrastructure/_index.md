@@ -3,11 +3,12 @@ title: "Deploy Infrastructure with AWS CDK"
 date: 2026-07-03
 weight: 3
 chapter: false
-draft: true
 pre: " <b> 5.3. </b> "
 ---
 
 This step deploys the entire DMS infrastructure to AWS using a single CDK command. The CDK stack provisions all services automatically.
+
+![Deployment Activity](/images/activity.png)
 
 #### What Gets Deployed
 
@@ -21,6 +22,7 @@ The `DmsStack` creates the following resources in order:
 - Token validity: Access/ID token = 60 minutes, Refresh token = 7 days
 
 **2. Amazon S3 — Three Private Buckets**
+![3 Buckets](/images/3bucket.png)
 - `FrontendBucket` — hosts the compiled React SPA
 - `QuarantineBucket` — receives all file uploads first; GuardDuty scans here
 - `DocumentsBucket` — stores only clean, approved documents
@@ -34,7 +36,8 @@ The `DmsStack` creates the following resources in order:
 - TTL attribute: `expiresAtEpoch` (for auto-expiring UploadIntent records)
 - 4 Global Secondary Indexes (GSI1–GSI4) for various query patterns
 
-**4. AWS Lambda — 11 Functions (Node.js 22, ARM64)**
+**4. AWS Lambda → 12 functions visible (Node.js 22, ARM64)**
+![12 Lambda Functions](/images/12lambda.png)
 
 | Handler | Purpose |
 |---|---|
@@ -47,13 +50,13 @@ The `DmsStack` creates the following resources in order:
 | `document-sharing` | Share/revoke document access |
 | `admin-users` | Create/manage users in Cognito |
 | `analytics` | Aggregate storage and activity statistics |
-| `process-upload` | SQS consumer: move clean files, write DynamoDB |
-| `process-upload-dlq` | Handle failed upload messages from Dead Letter Queue |
+| `process-upload` | EventBridge target: move clean files, write DynamoDB |
+| `process-upload-dlq` | Handle failed event deliveries from Dead Letter Queue |
 
-**5. Amazon SQS — Upload Queue**
-- Main queue: 6-minute visibility timeout, 4-day retention
-- Dead Letter Queue: 14-day retention, triggers after 10 failed receive attempts
-- S3 QuarantineBucket triggers SQS on every `s3:ObjectCreated:Put` under the `quarantine/` prefix
+**5. Amazon EventBridge — Event Routing**
+- Event bus routing S3 `ObjectCreated` events directly to the processing Lambda
+- Dead Letter Queue: handles failed event deliveries if Lambda processing fails
+- S3 QuarantineBucket sends events to EventBridge on every `s3:ObjectCreated:Put` under the `quarantine/` prefix
 
 **6. GuardDuty Malware Protection Plan**
 - Dedicated IAM role grants GuardDuty access to scan QuarantineBucket
@@ -84,10 +87,6 @@ Or use the environment variable:
 ```bash
 DMS_ALERT_EMAIL=your-email@example.com npx cdk deploy -c environment=dev
 ```
-
-{{% notice warning %}}
-After deployment, AWS will send a **subscription confirmation email** to your alert address. You must click **"Confirm subscription"** in that email to activate SNS notifications.
-{{% /notice %}}
 
 #### Verify Deployment
 

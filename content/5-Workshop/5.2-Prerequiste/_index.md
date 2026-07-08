@@ -10,7 +10,7 @@ Before deploying the DMS project, make sure the following tools and accounts are
 
 #### 1. Required Accounts & Access
 
-- **AWS Account** with sufficient permissions to create IAM roles, Lambda, S3, DynamoDB, Cognito, CloudFront, SQS, GuardDuty, SNS, CloudWatch, and CDK Bootstrap resources.
+- **AWS Account** with sufficient permissions to create IAM roles, Lambda, S3, DynamoDB, Cognito, CloudFront, EventBridge, GuardDuty, SNS, CloudWatch, and CDK Bootstrap resources.
 - **AWS CLI** configured with a profile that has the required permissions.
 
 #### 2. Required Tools
@@ -92,7 +92,3 @@ DMS/
 ├── contracts/            # OpenAPI schemas
 └── docs/                 # Data model & decisions
 ```
-
-{{% notice warning %}}
-Make sure the `aws/functions/dist/` directory exists before running `cdk deploy`. If it does not exist, Lambda code will not be found and the deployment will fail.
-{{% /notice %}}
